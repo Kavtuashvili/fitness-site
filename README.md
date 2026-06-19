@@ -31,9 +31,6 @@ The platform allows users to create an account, browse workout plans, track thei
 ### Home Page
 ![Home Page](screenshot/home.png)
 
-### Workouts Page
-![Workouts Page](screenshot/workouts.png)
-
 ### Profile Page
 ![Profile Page](screenshot/profile.png)
 
@@ -43,8 +40,5 @@ The platform allows users to create an account, browse workout plans, track thei
 ### Admin Dashboard
 ![Admin Dashboard](screenshot/admin-dashboard.png)
 
-
-## Author
-salome
-
-
+### Workout Management
+![Workout Management](screenshot/workout%20managment.png)
