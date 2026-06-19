@@ -43,8 +43,7 @@ The platform allows users to create an account, browse workout plans, track thei
 ### Admin Dashboard
 ![Admin Dashboard](screenshot/admin-dashboard.png)
 
-### Workout Management
-![Workout Management](screenshot/workout managment.png)
+
 ## Author
 salome
 
